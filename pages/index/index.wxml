@@ -1,0 +1,103 @@
+<swiper indicator-dots="true" indicator-color="rgba(255, 255, 255,.6)" indicator-active-color="#fff" autoplay interval="1000" circular>
+  <swiper-item>
+    <image src='../../static/uploads/slide_1.jpg'></image>
+  </swiper-item>
+   <swiper-item>
+    <image src='../../static/uploads/slide_2.jpg'></image>
+  </swiper-item>
+   <swiper-item>
+    <image src='../../static/uploads/slide_3.jpg'></image>
+  </swiper-item>
+   <swiper-item>
+    <image src='../../static/uploads/slide_4.jpg'></image>
+  </swiper-item>
+   <swiper-item>
+    <image src='../../static/uploads/slide_5.jpg'></image>
+  </swiper-item>
+</swiper>
+<!-- 小程序中的 view 标签相当于网页中的 div 属于块级元素 -->
+<!-- 小程序中的 navigator 标签相当于网页中的 a -->
+<!-- 小程序中的 text 标签相当于网页中的 span 属于行内元素 -->
+<!-- 活动标题 -->
+<view class="title">乐园活动</view>
+<!-- 活动列表 -->
+<view class="item">
+  <!-- 封面图 -->
+  <navigator url="">
+    <image src="https://botue.github.io/74qi/uploads/item_1.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">
+    疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
+    </view>
+    <!-- 其它 -->
+    <view class="extra">
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
+<view class="item">
+  <!-- 封面图 -->
+  <navigator url="">
+    <image src="https://botue.github.io/74qi/uploads/item_2.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">
+    疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
+    </view>
+    <!-- 其它 -->
+    <view class="extra">
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
+<view class="item">
+  <!-- 封面图 -->
+  <navigator url="">
+    <image src="https://botue.github.io/74qi/uploads/item_3.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">
+    疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
+    </view>
+    <!-- 其它 -->
+    <view class="extra">
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
+<view class="item">
+  <!-- 封面图 -->
+  <navigator url="">
+    <image src="https://botue.github.io/74qi/uploads/item_4.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">
+    疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
+    </view>
+    <!-- 其它 -->
+    <view class="extra">
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
